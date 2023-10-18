@@ -98,5 +98,8 @@
         <p>Participate in the forum. Imagine you set a software start-up. Create a mission statement for your start-up.</p>
         <img src="./mission statement.jpg" alt="imagen de tres empresas">
     </li>
+    <li>
+        <img src="./important dates.pngg" alt="imagen de tres empresas">
+    </li>
 
 </ul>
