@@ -32,6 +32,15 @@
     <li>
         <a href="./TP 5 - Websites - Listening - Must - have to - should.pdf">TP 5 - Websites - Listening - Should - must - have toArchivo</a>
     </li>
+        <li>
+        <a href="./TP 6 - Questions Michael Dell - Future.pdf">TP 6 - Questions Michael Dell - Future</a>
+    </li>
+    <li>
+        <a href="https://aulavirtual.frbb.utn.edu.ar/pluginfile.php/373249/mod_resource/content/3/How%20I%20built%20this%20Dell%20computersPART%201%20%281%29.mp3"> TP 6 track</a>
+    </li>
+    <li>
+        <video src="https://www.youtube.com/watch?v=ABrjdyavqkI">Write two things that will happen in the future and two things you think won't happen.</video>
+    </li>
 </ul>
 <br>
 
