@@ -99,7 +99,7 @@
         <img src="./mission statement.jpg" alt="imagen de tres empresas">
     </li>
     <li>
-        <img src="./important dates.pngg" alt="imagen de tres empresas">
+        <img src="./important dates.png" alt="important dates">
     </li>
 
 </ul>
